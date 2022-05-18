@@ -1,3 +1,3 @@
 #LICENSE
 
-## APACHE v2
+## Apche 3.0
